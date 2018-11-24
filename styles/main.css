@@ -1,0 +1,12 @@
+.header {
+    background-color: orange;
+    height: 10vh;
+}
+.content {
+    background-color: aliceblue;
+    height: 70vh; /*vw*/
+}
+.footer {
+    background-color: antiquewhite;
+    height: 20vh;
+}
